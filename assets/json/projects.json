@@ -4,12 +4,25 @@ projects =
     "projectImg":"assets/images/portfolio/portfolio-1.jpg",
     "projectType":"frontend",
     "subTitle":"test1",
-    "metaTitle":"test1meta"
+    "metaTitle":"test1meta",
+    "modalContent":{
+      "header": "testheader",
+      "body": "testBody",
+      "footer": {
+        "buttonText":"test button",
+        "buttonLink":"https://www.google.com"
+      }
+    }
   },
   {
     "projectImg":"assets/images/portfolio/portfolio-1.jpg",
     "projectType":"frontend",
     "subTitle":"test2",
-    "metaTitle":"test2meta"
+    "metaTitle":"test2meta",
+    "modalContent":{
+      "header": "testheader",
+      "body": "testBody",
+      "footer": null
+    }
   }
 ];
