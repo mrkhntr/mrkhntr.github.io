@@ -40,12 +40,12 @@ window.onclick = function(event){
 function generateFooter(footer){
 //to  generate the footer if there is a need to link to an external source
 //footer:footer
+  var wholefooter = document.getElementsByClassName('modal-footer')[0];
   if(footer == null){
-    var footer = document.getElementsByClassName('modal-footer')[0];
-    footer.style.display = "none";
+    wholefooter.style.display = "none";
     return null;
   }
-
+   wholefooter.style.display = "block";
    var footerDiv = document.getElementById('the-footer-button');
    footerDiv.innerHTML = "<a class=\"btn btn-default\" href=" + footer['buttonLink']+ ">" + footer['buttonText'] +"</a>"
 
