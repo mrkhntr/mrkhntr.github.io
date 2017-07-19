@@ -1,28 +1,67 @@
 projects =
 [
   {
-    "projectImg":"assets/images/portfolio/portfolio-1.jpg",
-    "projectType":"frontend",
-    "subTitle":"test1",
-    "metaTitle":"test1meta",
+    "projectImg":"assets/images/portfolio/personal-website.png",
+    "projectType":"coding-project",
+    "subTitle":"Personal Website",
+    "metaTitle":"Summer 2017",
     "modalContent":{
-      "header": "testheader",
-      "body": "testBody",
+      "header": "Mark Hunter's Personal Wesbsite",
+      "body": "I built this website to expand upon important aspects of my \
+      resume and professional achievements. In building this website I gained \
+       insights by applying my understanding of Bootstrap, HTML, CSS and \
+       JavaScript to create a simple but attractive professional portfolio. \
+       I hope you have found it useful! ", 
       "footer": {
-        "buttonText":"test button",
-        "buttonLink":"https://www.google.com"
+        "buttonText":"Visit it on GitHub",
+        "buttonLink":"https://github.com/Mark5595/mark5595.github.io"
       }
     }
   },
   {
-    "projectImg":"assets/images/portfolio/portfolio-1.jpg",
-    "projectType":"frontend",
-    "subTitle":"test2",
-    "metaTitle":"test2meta",
+    "projectImg":"assets/images/portfolio/rocket-club.png",
+    "projectType":"hardware-project",
+    "subTitle":"Rocket Club - AIAA",
+    "metaTitle":"Spring 2016",
     "modalContent":{
-      "header": "testheader",
-      "body": "testBody",
+      "header": "AIAA Project Karman",
+      "body": "The goal of this group was to make Northeastern the first \
+      university to launch a rocket past the Von Karman line of space defined \
+      as 100km above sea level. \
+      <br> \
+      <br> \
+      To aid in this groups mission I helped design and develop the electronics \
+      bay for the rockets. I gain experience using a laser cutter which was \
+      used to make the cut outs of the plywood boards that the electrical \
+      components were attached to. Further, I applied my soldering and \
+      SolidWorks skills to aid in the completion of these bays. I \
+      collaborated in a group setting to overcome engineering challenges such \
+      as managing the constraints of space, ensuring the boards were secure, and \
+       making the boards accessible for rocket recovery.",
       "footer": null
     }
-  }
+  },
+    {
+      "projectImg":"assets/images/portfolio/transport.png",
+      "projectType":"community-project",
+      "subTitle":"Transportation Study Circle",
+      "metaTitle":"Spring 2013",
+      "modalContent":{
+        "header": "Portsmouth Listens Project on Transportation",
+        "body": "As a team leader, I collaborated with team members, peers, and community \
+        members to produce a report on how to improve the City of \
+        Portsmouth, NH transportation system. Our findings were inclusive\
+        of diverse perspectives and backgrounds as we collaborated with a\
+        50-person team. Particularly, my part was to research, \
+        report and suggest improvements on the transportation needs \
+        of fellow high schoolers. I used Photoshop to create simulated \
+        outcomes of our proposals. Overall, I contributed by writing, \
+        preparing and presenting our group's findings to the Portsmouth \
+        City Council. The report was later published in the local news.",
+        "footer": {
+          "buttonText":"Read the Report",
+          "buttonLink":"https://drive.google.com/file/d/0B35a-qexYKoVZHRCMm1XTUpoRGs/view"
+        }
+      }
+    }
 ];

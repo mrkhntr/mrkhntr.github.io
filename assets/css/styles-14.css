@@ -658,6 +658,8 @@ a.btn:hover {
 .footer .container a {
   color: #8a8a8a;
 }
+
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header .social {
@@ -918,4 +920,8 @@ a.btn:hover {
 
 .project{
   cursor:pointer;
+}
+
+p.big{
+  line-height: 250%;
 }
