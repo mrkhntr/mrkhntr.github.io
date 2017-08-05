@@ -19,6 +19,24 @@ projects =
     }
   },
   {
+    "projectImg":"assets/images/portfolio/mit.png",
+    "projectType":"coding-project",
+    "subTitle":"nuvision",
+    "metaTitle":"MIT Connected Care Hackathon 2017",
+    "modalContent":{
+      "header": "MIT Connected Care Hackathon 2017: nuvision",
+      "body": "This project is an augmented reality hackathon project developed\
+       for the 2017 Connected Care Design Hackathon hosted by the MIT Design Labs\
+        in honor of Bill Mitchell.This project is called \"Nuvision\" and is intended\
+         to be a simulation of a connected eyepiece (whether they by contact lenses, glasses, or other form of glasses).Nuvision integrates data from a number of sources and provides them in clean, concise manner overlayed into user vision.Nuvision ultimate placed Top 5 at the Connected Care Hackathon. Competition was a mix of undergrads through PhD students.",
+      "footer": {
+        "buttonText":"Check the GIT",
+        "buttonLink":"https://github.com/drewtu2/mitConnectedCare"
+      }
+    }
+  },
+
+  {
     "projectImg":"assets/images/portfolio/rocket-club.png",
     "projectType":"hardware-project",
     "subTitle":"Rocket Club - AIAA",
@@ -39,6 +57,48 @@ projects =
       as managing the constraints of space, ensuring the boards were secure, and \
        making the boards accessible for rocket recovery.",
       "footer": null
+    }
+  },
+  {
+    "projectImg":"assets/images/portfolio/bandgclub.jpg",
+    "projectType":"community-project",
+    "subTitle":"Boys and Girls Club Outdoor Space",
+    "metaTitle":"Spring 2016",
+    "modalContent":{
+      "header": "Engineering Design: Boys and Girls Club Outdoor Space",
+      "body": "The Boys and Girls Club requested a new design for their outdoor space as it was not being efficiently used. \
+      I contributed to the design report by developing concepts, making schematics, and communicating with the Club's management to ensure a successful design. \
+      <br>\
+      - Collaborated with the Boys and Girls Club of Charlestown to design an outdoor space for their Club. <br>\
+      - Organized a team of six to produce twenty-three-page design report.  <br>\
+      - Innovative and practical designs that would enhance the Club’s outdoor space were included in the report.",
+      "footer": {
+        "buttonText":"Read the Report",
+        "buttonLink":"https://drive.google.com/file/d/0B35a-qexYKoVRGJsc09oV0NOaFE/view"
+      }
+    }
+  },
+
+  {
+    "projectImg":"assets/images/portfolio/intouchbluelogo.png",
+    "projectType":"coding-project",
+    "subTitle":"inTouchBlue",
+    "metaTitle":"Microsoft More Personal Computing Hackathon Fall 2015 - inTouchBlue",
+    "modalContent":{
+      "header": "Engineering Design: Boys and Girls Club Outdoor Space",
+      "body": "Worked in a cross-cultural team to produce a VicHealth award winning concept health care application. \
+      The problem was to find a better way to target young individuals with mental conditions \
+      (i.e. depression). Our solution was to create a program that changed the way the Victorian \
+      Health Promotion Foundation collected population health data. A back-end database, populated\
+       by smartphone data, was created. It included the number of phone calls, number of text messages, \
+       time spent on social media, galvanic skin response, and other sensors. Alongside this, a front-end\
+        mobile phone app was created to gather even more data inputted by the user. Finally, Azure Machine\
+         Learning was used to create an algorithm that calculated whether or not an individual was at risk\
+          for either depression or over-stressed",
+      "footer": {
+        "buttonText":"Read the summary",
+        "buttonLink":"https://drive.google.com/file/d/0B35a-qexYKoVQTBLZnh4YUx1VFU/view"
+      }
     }
   },
     {
