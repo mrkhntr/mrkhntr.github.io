@@ -27,7 +27,7 @@ projects =
       "header": "MIT Connected Care Hackathon 2017: nuvision",
       "body": "This project is an augmented reality hackathon project developed\
        for the 2017 Connected Care Design Hackathon hosted by the MIT Design Labs\
-        in honor of Bill Mitchell.This project is called \"Nuvision\" and is intended\
+        in honor of Bill Mitchell.This project is called \"nuvision\" and is intended\
          to be a simulation of a connected eyepiece (whether they by contact lenses, glasses, or other form of glasses).Nuvision integrates data from a number of sources and provides them in clean, concise manner overlayed into user vision.Nuvision ultimate placed Top 5 at the Connected Care Hackathon. Competition was a mix of undergrads through PhD students.",
       "footer": {
         "buttonText":"Check the GIT",
@@ -83,10 +83,10 @@ projects =
     "projectImg":"assets/images/portfolio/intouchbluelogo.png",
     "projectType":"coding-project",
     "subTitle":"inTouchBlue",
-    "metaTitle":"Microsoft More Personal Computing Hackathon Fall 2015 - inTouchBlue",
+    "metaTitle":"Microsoft More Personal Computing Hackathon 2015",
     "modalContent":{
-      "header": "Engineering Design: Boys and Girls Club Outdoor Space",
-      "body": "Worked in a cross-cultural team to produce a VicHealth award winning concept health care application. \
+      "header": "Microsoft More Personal Computing Hackathon 2015 - inTouchBlue",
+      "body": "Worked in a cross-cultural team (while studying in Melbourne, Aus) to produce a VicHealth award winning concept health care application. \
       The problem was to find a better way to target young individuals with mental conditions \
       (i.e. depression). Our solution was to create a program that changed the way the Victorian \
       Health Promotion Foundation collected population health data. A back-end database, populated\
