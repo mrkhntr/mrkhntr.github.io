@@ -25,12 +25,12 @@ projects =
     "metaTitle":"MIT Connected Care Hackathon 2017",
     "modalContent":{
       "header": "MIT Connected Care Hackathon 2017: nuvision",
-      "body": "This project is an augmented reality hackathon project developed\
+      "body": "This is an augmented reality (AR) hackathon project developed\
        for the 2017 Connected Care Design Hackathon hosted by the MIT Design Labs\
-        in honor of Bill Mitchell.This project is called \"nuvision\" and is intended\
-         to be a simulation of a connected eyepiece (whether they by contact lenses, glasses, or other form of glasses).Nuvision integrates data from a number of sources and provides them in clean, concise manner overlayed into user vision.Nuvision ultimate placed Top 5 at the Connected Care Hackathon. Competition was a mix of undergrads through PhD students.",
+        .\"nuvision\" is intended\
+         to be a simulation of a connected eyepiece experience (whether they by contact lenses, glasses, or other form of glasses).Nuvision integrates data from a multiple sources to provide real-time information about the user's enviorment. Nuvision ultimate placed Top 5 at the Connected Care Hackathon. Competition was a mix of undergrads through PhD students.",
       "footer": {
-        "buttonText":"Check the GIT",
+        "buttonText":"Check the GitHub",
         "buttonLink":"https://github.com/drewtu2/mitConnectedCare"
       }
     }
