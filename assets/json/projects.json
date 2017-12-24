@@ -11,7 +11,11 @@ projects =
      by designing mazes using Kruskal’s algorithm, and solving them using \
       either breadth- or depth-first (BFS/DFS) searches. The user can either manually solve the randomly-generated maze, \
       or watch BFS or DFS solve it (showing the cells visited by those algorithms).", 
-    "footer": null
+
+    "footer": {
+      "buttonText":"Visit it on GitHub",
+      "buttonLink":"https://github.com/Mark5595/CS2510_MazeGame"
+    }
   }
   },
   {
