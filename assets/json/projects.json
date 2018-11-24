@@ -1,6 +1,27 @@
 projects =
 [
   {
+  "projectImg":"assets/images/portfolio/easy_animator.gif",
+  "projectType":"coding-project",
+  "subTitle":"The Easy Animator",
+  "metaTitle":"Spring 2018",
+  "modalContent":{
+    "header": "A picture is worth a thousand words, and moving pictures are worth many more.",
+    "body": "In this project I applied my knowledge of Model View Controller (MVC) Object Oriented programing paradigm \
+              to make an animator. The animator works by providing it a text file with description of shape \
+              and its animations. There is a single model with three different views \
+              (SVG, Description in Human Readable Text and Java Swing Visual View). By building this program \
+              I learned the importance well design programing to be able to \
+              adapt code to new customer wants along with the importance of performance so the animation runs smoothly. I used \
+              Java 8 Streams to speed up the animation process through multi-threaded programing.", 
+
+    "footer": {
+      "buttonText":"See The Project",
+      "buttonLink":"https://drive.google.com/drive/folders/1Yezb0e0qPclbIrdVVAk-XVJMrr94PjIM?usp=sharing"
+    }
+  }
+  },
+  {
   "projectImg":"assets/images/portfolio/maze.gif",
   "projectType":"coding-project",
   "subTitle":"Maze Game",
