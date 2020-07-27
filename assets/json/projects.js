@@ -17,6 +17,22 @@ projects =
     }
   },
   {
+    "projectImg":"assets/images/portfolio/nuboard.gif",
+    "projectType":"coding-project",
+    "subTitle":"nuboard - VR PCB Design Tool",
+    "metaTitle":"2020 EECE Capstone Design Winner",
+    "modalContent":{
+      "header": "nuboard - VR PCB Design Tool, 2020 Capstone Winner",
+      "body": "Using open source tooling extending and adapted the KiCad code base to work with a VR Godot client. \
+      Collaborated with team to design an impressive VR experience so users can view complex three-dimensional board designs in a more intuative fashion than a two-dimensional monitor.
+      Our team won Northeastern's 2020 EECE Capstone design first place.", 
+      "footer": {
+        "buttonText":"nuboard Capstone Presentation",
+        "buttonLink":"https://youtu.be/VWYOo4ThcNk"
+      }
+    }
+  },
+  {
   "projectImg":"assets/images/portfolio/easy_animator.gif",
   "projectType":"coding-project",
   "subTitle":"The Easy Animator",
@@ -25,7 +41,7 @@ projects =
     "header": "A picture is worth a thousand words, and moving pictures are worth many more.",
     "body": "In this project I applied my knowledge of Model View Controller (MVC) Object Oriented programing paradigm \
               to make an animator. The animator works by providing it a text file with description of shape \
-              and its animations. There is a single model with three different views \
+              and the animations to apply. There is a single model with three different views \
               (SVG, Description in Human Readable Text and Java Swing Visual View). By building this program \
               I learned the importance well design programing to be able to \
               adapt code to new customer wants along with the importance of performance so the animation runs smoothly. I used \
@@ -82,8 +98,8 @@ projects =
       "header": "MIT Connected Care Hackathon 2017: nuvision",
       "body": "This is an augmented reality (AR) hackathon project developed\
        for the 2017 Connected Care Design Hackathon hosted by the MIT Design Labs\
-        .\"nuvision\" is intended\
-         to be a simulation of a connected eyepiece experience (whether they by contact lenses, glasses, or other form of glasses).\
+        .\"nuvision\" is \
+        a simulation of a connected eyepiece experience (thru contact lenses or glasses).\
          nuvision integrates data from a multiple sources to provide real-time information about the user's environment.\
           We ultimate placed Top 5 at the Connected Care Hackathon. Competition was a mix of undergrads through PhD students.",
       "footer": {
