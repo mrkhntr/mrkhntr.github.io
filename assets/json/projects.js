@@ -24,7 +24,7 @@ projects =
     "modalContent":{
       "header": "nuboard - VR PCB Design Tool, 2020 Capstone Winner",
       "body": "Using open source tooling extending and adapted the KiCad code base to work with a VR Godot client. \
-      Collaborated with team to design an impressive VR experience so users can view complex three-dimensional board designs in a more intuative fashion than a two-dimensional monitor.
+      Collaborated with team to design an impressive VR experience so users can view complex three-dimensional board designs in a more intuative fashion than a two-dimensional monitor. \
       Our team won Northeastern's 2020 EECE Capstone design first place.", 
       "footer": {
         "buttonText":"nuboard Capstone Presentation",
