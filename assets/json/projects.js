@@ -12,7 +12,7 @@ projects =
       more functionality soon. The language is called Snake base off of the course.", 
       "footer": {
         "buttonText":"Write & Compile Snake Language",
-        "buttonLink":"https://mark5595.github.io/compiler-demo-website/"
+        "buttonLink":"https://mrkhntr.github.io/compiler-demo-website/"
       }
     }
   },
@@ -85,7 +85,7 @@ projects =
        I hope you have found it useful! ", 
       "footer": {
         "buttonText":"Visit it on GitHub",
-        "buttonLink":"https://github.com/Mark5595/mark5595.github.io"
+        "buttonLink":"https://github.com/mrkhntr/mrkhntr.github.io"
       }
     }
   },
